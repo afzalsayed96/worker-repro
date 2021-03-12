@@ -1,0 +1,7 @@
+name = "worker-repro"
+type = "webpack"
+account_id = "32c452f27bce7fc3c2571de9e962616b"
+workers_dev = true
+kv_namespaces = [
+  { binding = "__CUSTOM_CONTENT", id = "553731eafb5e4e4da414fbce46f1978b" }
+]
